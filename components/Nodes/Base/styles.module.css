@@ -1,0 +1,10 @@
+.node {
+    transition: all .2s;
+}
+.selected {
+    border-color: var(--mantine-color-dark-9);
+}
+.error {
+    border-color: var(--mantine-color-red-5);
+    background-color: var(--mantine-color-red-0);
+}
